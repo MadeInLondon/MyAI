@@ -1,2 +1,2 @@
 # MyAI
-Personal Assistant for private use.
+Personal Assistant not for public upload.
